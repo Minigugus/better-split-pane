@@ -1,7 +1,6 @@
 {
   "name": "better-split-pane",
-  "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "module": "dist/better-split-pane.es.js",
   "scripts": {
     "dev": "vite",
